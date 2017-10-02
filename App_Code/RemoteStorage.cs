@@ -1,11 +1,11 @@
-﻿// Restore to allow callers to list files (not required for PassWeb)
+// Restore to allow callers to list files (not required for PassWeb)
 //#define ALLOW_LIST
 
 // Remove to prevent the creation of backup files for each change
 #define BACKUP_FILE
 
 // Remove to allow the creation of new files
-#define BLOCK_NEW
+//#define BLOCK_NEW
 
 // Restore to enable simple support for Cross-Origin Resource Sharing
 //#define SIMPLE_CORS
